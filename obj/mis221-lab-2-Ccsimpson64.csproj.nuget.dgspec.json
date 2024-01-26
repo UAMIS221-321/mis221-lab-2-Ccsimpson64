@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/mis221-lab-2-Ccsimpson64.csproj": {}
+  },
+  "projects": {
+    "/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/mis221-lab-2-Ccsimpson64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/mis221-lab-2-Ccsimpson64.csproj",
+        "projectName": "mis221-lab-2-Ccsimpson64",
+        "projectPath": "/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/mis221-lab-2-Ccsimpson64.csproj",
+        "packagesPath": "/Users/ccsimpson/.nuget/packages/",
+        "outputPath": "/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ccsimpson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

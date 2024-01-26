@@ -1,0 +1,15 @@
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/bin/Debug/net8.0/mis221-lab-2-Ccsimpson64
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/bin/Debug/net8.0/mis221-lab-2-Ccsimpson64.deps.json
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/bin/Debug/net8.0/mis221-lab-2-Ccsimpson64.runtimeconfig.json
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/bin/Debug/net8.0/mis221-lab-2-Ccsimpson64.dll
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/bin/Debug/net8.0/mis221-lab-2-Ccsimpson64.pdb
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.AssemblyInfoInputs.cache
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.AssemblyInfo.cs
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.csproj.CoreCompileInputs.cache
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.sourcelink.json
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.dll
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/refint/mis221-lab-2-Ccsimpson64.dll
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.pdb
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/mis221-lab-2-Ccsimpson64.genruntimeconfig.cache
+/Users/ccsimpson/Desktop/MIS221/LabDemo/mis221-lab-2-Ccsimpson64/obj/Debug/net8.0/ref/mis221-lab-2-Ccsimpson64.dll

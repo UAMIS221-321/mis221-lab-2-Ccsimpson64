@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mis221-lab-2-Ccsimpson64/1.0.0": {
+        "runtime": {
+          "mis221-lab-2-Ccsimpson64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis221-lab-2-Ccsimpson64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
